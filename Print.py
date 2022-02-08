@@ -1,2 +1,2 @@
 print("Sam")
-* text=auto
+
