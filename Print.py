@@ -1,2 +1,7 @@
-print("Sam")
-
+name = input("Please enter your name: ")
+print("Name is:",name)
+Height = input("Your height in cm: ")
+print("Height:",Height,"cm")
+Age = input("Age is: ")
+print("Age: ",Age)
+print("In 5 years you will be:",Age+5)
